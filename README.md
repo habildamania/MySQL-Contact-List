@@ -1,0 +1,2 @@
+# MySQL-Contact-List
+A Web based Application to store your address book digitally. The number of entries in the address book are not limited. Perform operations such as Adding, Deleting, Modifying and Searching a contact by any combination of the contact field. Store all information about the contact. This web App is also Mobile Responsive and can be accessed from any mobile Device or Laptops, Desktops, etc. Use of Jquery, AngularJS, AJAX, CSS, HTML, PHP and MySQL to provide the best and most seamless Operation.
